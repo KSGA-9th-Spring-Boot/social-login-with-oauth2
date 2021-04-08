@@ -1,5 +1,4 @@
-# springboot-sample-app
-
+# Spring Boot Social Login with OAuth2
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 Social Login OAuth2 with [Spring Boot](http://projects.spring.io/spring-boot/).
